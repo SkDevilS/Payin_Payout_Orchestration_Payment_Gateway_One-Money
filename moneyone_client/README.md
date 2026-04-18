@@ -1,4 +1,4 @@
-# Moneyone Client Dashboard
+# One_Money Client Dashboard
 
 Merchant dashboard for Moneyone payment gateway.
 
