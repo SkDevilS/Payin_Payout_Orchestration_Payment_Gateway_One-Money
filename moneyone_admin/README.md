@@ -1,4 +1,4 @@
-# Moneyone - Payment Dashboard
+# One_Money - Payment Dashboard
 
 A modern, feature-rich payment dashboard built with React, Vite, and Tailwind CSS for managing payin/payout transactions.
 
